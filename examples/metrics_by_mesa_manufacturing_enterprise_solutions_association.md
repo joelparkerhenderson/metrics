@@ -1,0 +1,87 @@
+## Metrics by MESA: Manufacturing Enterprise Solutions Association
+
+Credit: http://blog.lnsresearch.com/blog/bid/188295/28-manufacturing-metrics-that-actually-matter-the-ones-we-rely-on
+
+The MESA (Manufacturing Enterprise Solutions Association) organization has sponsored research over the past years to help the manufacturing marketplace identify the most important metrics, and help decision makers understand metrics improvements and their relationships to metrics programs and the use of software solutions. As part of the most recent metrics survey, 28 manufacturing metrics were identified as being the most utilized by discrete, process, and hybrid/batch manufacturers.
+
+Below, we’ve grouped these metrics with the associated top-level area of improvement/goal for each.
+
+
+### Improving Customer Experience & Responsiveness
+
+On-Time Delivery to Commit – This metric is the percentage of time that manufacturing delivers a completed product on the schedule that was committed to customers.
+
+Manufacturing Cycle Time –  Measures the speed or time it takes for manufacturing to produce a given product from the time the order is released to production, to finished goods.
+
+Time to Make Changeovers – Measures the speed or time it takes to switch a manufacturing line or plant from making one product over to making a different product.
+
+
+### Improving Quality
+
+Yield – Indicates a percentage of products that are manufactured correctly and to specifications the first time through the manufacturing process without scrap or rework.
+
+Customer Rejects/Return Material Authorizations/Returns – A measure of how many times customers reject products or request returns of products based on receipt of a bad or out of specification product.
+
+Supplier’s Quality Incoming – A measure of the percentage of good quality materials coming into the manufacturing process from a given supplier.
+
+
+### Improving Efficiency
+
+Throughput – Measures how much product is being produced on a machine, line, unit, or plant over a specified period of time.
+
+Capacity Utilization – Indicates how much of the total manufacturing output capacity is being utilized at a given point in time.
+
+Overall Equipment Effectiveness (OEE) – This multi-dimensional metric is a multiplier of Availability x Performance x Quality, and it can be used to indicate the overall effectiveness of a piece of production equipment, or an entire production line.
+
+Schedule or Production Attainment – A measure of what percentage of time a target level of production is attained within a specified schedule of time.
+
+
+### Reducing Inventory
+
+WIP Inventory/Turns – A commonly used ratio calculation to measure the efficient use of inventory materials. It is calculated by dividing the cost of goods sold by the average inventory used to produce those goods.
+
+
+### Ensuring Compliance
+
+Reportable Health and Safety Incidents – A measure of the number of health and safety incidents that were either actual incidents or near misses that were recorded as occurring over a period of time.
+
+Reportable Environmental Incidents – A measure of the number of health and safety incidents that were recorded as occurring over a period of time.
+
+Number of Non-Compliance Events / Year – A measure of the number of times a plant or facility operated outside the guidelines of normal regulatory compliance rules over a one-year period. These non-compliances need to be fully documented as to the specific non-compliance time, reasons, and resolutions.
+
+
+### Reducing Maintenance
+
+Percentage Planned vs. Emergency Maintenance Work Orders – This ratio metric is an indicator of how often scheduled maintenance takes place, versus more disruptive/un-planned maintenance.
+
+Downtime in Proportion to Operating Time – This ratio of downtime to operating time is a direct indicator of asset availability for production.
+
+
+### Increasing Flexibility & Innovation
+
+Rate of New Product Introduction –  Indicates how rapidly new products can be introduced to the marketplace and typically includes a combination of design, development and manufacturing ramp up times.
+
+Engineering Change Order Cycle Time – A measure of how rapidly design changes or modifications to existing products can be implemented all the way through documentation processes and volume production.
+
+
+### Reducing Costs & Increasing Profitability
+
+Total Manufacturing Cost per Unit Excluding Materials – This is a measure of all potentially controllable manufacturing costs that go into the production of a given manufactured unit, item or volume.
+
+Manufacturing Cost as a Percentage of Revenue – A ratio of total manufacturing costs to the overall revenues produced by a manufacturing plant or business unit.
+
+Net Operating Profit – Measures the financial profitability for all investors/shareholders/debt holders, either before or after taxes, for a manufacturing plant or business unit.
+
+Productivity in Revenue per Employee – This is a measure of how much revenue is generated by a plant, business unit or company, divided by the number of employees.
+
+Average Unit Contribution Margin – This metric is calculated as a ratio of the profit margin that is generated by a manufacturing plant or business unit, divided into a given unit or volume of production.
+
+Return on Assets/Return on Net Assets - A measure of financial performance calculated by dividing the net income from a manufacturing plant or business unit by the value of fixed assets and working capital deployed.
+
+Energy Cost per Unit – A measure of the cost of energy (electricity, steam, oil, gas, etc.) required to produce a specific unit or volume of production.
+
+Cash-to-Cash Cycle Time – This metric is the duration between the purchase of a manufacturing plant or business unit’s inventory, and the collection of payments/accounts receivable for the sale of products that utilize that inventory – typically measured in days.
+
+EBITDA – This metric acronym stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It is a calculation of a business unit or company's earnings, prior to having any interest payments, tax, depreciation, and amortization subtracted for any final accounting of income and expenses. EBITDA is typically used as top-level indication of the current operational profitability of a business.
+
+Customer Fill Rate/On-Time delivery/Perfect Order Percentage - This metric is the percentage of times that customers receive the entirety of their ordered manufactured goods, to the correct specifications, and delivered at the expected time.
