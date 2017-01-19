@@ -72,6 +72,8 @@ Below, we’ve grouped these metrics with the associated top-level area of impro
 
 ### Reducing Maintenance
 
+<dl>
+
 <dt>Percentage Planned vs. Emergency Maintenance Work Orders</dt><dd><p>This ratio metric is an indicator of how often scheduled maintenance takes place, versus more disruptive/un-planned maintenance.</p></dd>
 
 <dt>Downtime in Proportion to Operating Time</dt><dd><p>This ratio of downtime to operating time is a direct indicator of asset availability for production.</p></dt>
@@ -81,7 +83,7 @@ Below, we’ve grouped these metrics with the associated top-level area of impro
 
 ### Increasing Flexibility & Innovation
 
-</p></dd>
+<dl>
 
 <dt>Rate of New Product Introduction</dt><dd><p> Indicates how rapidly new products can be introduced to the marketplace and typically includes a combination of design, development and manufacturing ramp up times.</p></dd>
 
