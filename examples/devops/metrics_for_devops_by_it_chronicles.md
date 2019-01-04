@@ -4,7 +4,11 @@ Seee https://www.itchronicles.com/dev-ops/devops-metrics-kpis/
 
 Contents:
 
-* [](#)
+* [Frequency of deployment](#frequency-of-deployment)
+* [Deployment Speed](#deployment-speed)
+* [Failure Rates](#failure-rates)
+* [Mean Time to Recovery (MTTR) ](#mean-time-to-recovery-mttr)
+* [Measuring Culture](#measuring-culture)
 
 
 ## Frequency of deployment

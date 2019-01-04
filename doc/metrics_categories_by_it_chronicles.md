@@ -6,7 +6,10 @@ Metrics can fit into one of the following categories:
 
 Contents:
 
-*[](#)
+* [Efficiency & Effectiveness](#efficiency-effectiveness)
+* [Velocity](#velocity)
+* [Quality](#quality)
+* [Culture, Collaboration, and Sharing](#culture-collaboration-and-sharing)
 
 
 ## Efficiency & Effectiveness
